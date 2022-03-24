@@ -1,6 +1,6 @@
 _Snake Game to practice JS_
 
-- how to run:
+_how to run:_
 
 * clone the repository
 * run index.html with your browser
